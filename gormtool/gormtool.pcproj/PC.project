@@ -1,0 +1,73 @@
+{
+    APPLICATIONICON = "";
+    "APP_DOCUMENT_BASED" = NO;
+    "APP_TYPE" = GORM;
+    "BUNDLE_IDENTIFIER" = "";
+    "CLASS_FILES" = (
+	"AppController.m"
+    );
+    COMPILEROPTIONS = "";
+    CPPOPTIONS = "";
+    "CREATION_DATE" = "2020-11-21 20:12:49 -0500";
+    "DOCU_FILES" = (
+    );
+    FRAMEWORKS = (
+    );
+    "HEADER_FILES" = (
+	"AppController.h"
+    );
+    IMAGES = (
+    );
+    INSTALLDIR = "$(HOME)/GNUstep";
+    INTERFACES = (
+	"gormtool.gorm"
+    );
+    LANGUAGE = English;
+    LIBRARIES = (
+	"gnustep-base",
+	"gnustep-gui"
+    );
+    LINKEROPTIONS = "";
+    "LOCALIZED_RESOURCES" = (
+    );
+    MAININTERFACE = "gormtool.gorm";
+    MAKEFILEDIR = "$(GNUSTEP_MAKEFILES)";
+    "OBJC_COMPILEROPTIONS" = "";
+    "OTHER_RESOURCES" = (
+    );
+    "OTHER_SOURCES" = (
+	"gormtool_main.m"
+    );
+    "PRINCIPAL_CLASS" = NSApplication;
+    "PROJECT_AUTHORS" = (
+    );
+    "PROJECT_COPYRIGHT" = "Copyright (C) 200x";
+    "PROJECT_COPYRIGHT_DESC" = "Released under ...";
+    "PROJECT_CREATOR" = "Gregory John Casamento,,,";
+    "PROJECT_DESCRIPTION" = "No description avaliable!";
+    "PROJECT_DOCUMENTTYPES" = (
+    );
+    "PROJECT_GROUP" = "No group avaliable!";
+    "PROJECT_MAINTAINER" = "Gregory John Casamento,,,";
+    "PROJECT_NAME" = gormtool;
+    "PROJECT_RELEASE" = "0.1";
+    "PROJECT_SUMMARY" = "No summary avaliable!";
+    "PROJECT_TYPE" = Application;
+    "PROJECT_URL" = "";
+    "SEARCH_HEADER_DIRS" = (
+    );
+    "SEARCH_LIB_DIRS" = (
+    );
+    SUBPROJECTS = (
+    );
+    "SUPPORTING_FILES" = (
+	"GNUmakefile.preamble",
+	GNUmakefile,
+	"GNUmakefile.postamble",
+	"gormtoolInfo.plist"
+    );
+    "USER_LANGUAGES" = (
+	AmericanEnglish,
+	English
+    );
+}
